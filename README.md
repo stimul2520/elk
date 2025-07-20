@@ -49,9 +49,11 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 
-[docker-compose.yml]()
-[logstash.conf]()
-[kibana.yml]()
+[docker-compose.yml](https://github.com/stimul2520/elk/blob/d6fbbbf306352fa73860813c154838d96132f95f/docker-compose.yml)
+
+[logstash.conf](https://github.com/stimul2520/elk/blob/d6fbbbf306352fa73860813c154838d96132f95f/logstash.conf)
+
+[kibana.yml](https://github.com/stimul2520/elk/blob/d6fbbbf306352fa73860813c154838d96132f95f/kibana.yml)
 
 
 ---
@@ -62,7 +64,7 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 
-[filebeat.yml](img/3.png)
+[filebeat.yml](https://github.com/stimul2520/elk/blob/d6fbbbf306352fa73860813c154838d96132f95f/filebeat.yml)
 
 ![300](img/300.png)
 
